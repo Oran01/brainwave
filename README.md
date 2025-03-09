@@ -50,9 +50,5 @@ This project was built following the **JavaScript Mastery** tutorial:
 
 Feel free to fork this repository and submit pull requests to improve the project!
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
 ---
 🌟 Star this repo if you found it useful! ⭐
