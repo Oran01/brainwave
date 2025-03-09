@@ -1,6 +1,6 @@
 # Brainwave - AI Chat UI
 
-Brainwave is a modern and responsive **UI for an AI-powered chat platform**, built with **React, Vite, and TailwindCSS**. This project provides an elegant frontend design for AI-driven conversations, collaboration, and interactive features.
+Brainwave is a modern and responsive **UI/UX  for an AI-powered chat platform**, built with **React, Vite, and TailwindCSS**. This project provides an elegant frontend design for AI-driven conversations, collaboration, and interactive features.
 
 ## 🚀 Features
 
